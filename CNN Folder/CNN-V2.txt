@@ -1,3 +1,0 @@
-CNN Model
-train
-test
